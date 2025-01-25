@@ -1,2 +1,2 @@
-# miPrimerRepositorio
-Repositorio util para aprender el versionado de Git y Git Hub.
+# Mi primer README
+Mi primer repositorio en GitHib para el curso de freeCodeCamp.
